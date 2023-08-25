@@ -15,7 +15,7 @@ output application/json
   productID: "1234",
   productName: "Chinna Mulesoft 4.x course",
   productOwner: "Chinna",
-  productDescription: "complete Mule Developer in depth"
+  productDescription: "complete Mule Developer in depth for learining"
 }]]></ee:set-payload>
             </ee:message>
         </ee:transform>
